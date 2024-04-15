@@ -1,0 +1,14 @@
+* {
+	background-color: #FEFFE2;
+	font-family: Montserrat;
+}
+
+.nav-bar a {
+	text-decoration: none;
+	margin-right: 56px;
+	text-align: center;
+}
+
+.nav-bar a:hover {
+	color: red;
+}
