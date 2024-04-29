@@ -1,0 +1,10 @@
+@import url('https://fonts.cdnfonts.com/css/montserrat');
+
+.last-recipes {
+    text-decoration: none;
+    font-family: Montserrat;
+}
+
+.last-recipes a .last-recipes-text {
+    background-color: aqua;
+}
