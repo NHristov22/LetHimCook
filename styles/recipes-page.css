@@ -9,7 +9,7 @@
     margin-top: 2%;
 }
 
-.recipes-page .white, h1, ul, .pr, .produkti, h2 {
+.recipes-page .white, h1, ul, .pr, .produkti, h2, .star-rating, .star, #outputRating {
     background-color: #fcffbf;
 }
 
@@ -66,4 +66,33 @@ ul.ul-pr {
 
 .recipes-page .white {
     margin-bottom: 4%;
+}
+
+.recipes-page .white .star-rating {
+    text-align: center;
+}
+
+.recipes-page .white .star-rating .star {
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.one {
+    color: rgb(255, 0, 0);
+  }
+   
+.two {
+    color: rgb(255, 106, 0);
+}
+   
+.three {
+    color: rgb(175, 180, 12);
+}
+   
+.four {
+    color: rgb(209, 209, 86);
+}
+   
+.five {
+    color: rgb(24, 159, 14);
 }
